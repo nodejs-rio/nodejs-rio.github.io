@@ -1,0 +1,1 @@
+{"componentChunkName":"component---node-modules-gatsby-theme-sky-lite-src-templates-tag-js","path":"/tag/vim-labs","result":{"data":{"site":{"siteMetadata":{"templates":{"posts":{"pathPrefix":"posts","filters":{"tag":{"pathPrefix":"tag"}}}}}},"allMdx":{"edges":[]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"vim-labs","limit":3}}}
