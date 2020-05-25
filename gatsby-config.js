@@ -13,8 +13,8 @@ module.exports = {
             url: "/codigo-de-conduta"
           },
           {
-            title: "Vagas",
-            url: "/vagas"
+            title: "Divulgar Vagas",
+            url: "/divulgar-vagas"
           },
           {
             title: "Quero Palestrar",
@@ -47,11 +47,11 @@ module.exports = {
             links: [
               {
                 title: "Quero ser palestrante",
-                url: "https://forms.gle/zKexDS5bUdEY7TvJ6"
+                url: "/call-4-papers"
               },
               {
                 title: "Quero divulgar vagas",
-                url: "/call-4-papers"
+                url: "/divulgar-vagas"
               }
             ]
           },
@@ -63,12 +63,8 @@ module.exports = {
                 url: "/codigo-de-conduta"
               },
               {
-                title: "Vagas",
-                url: "/vagas"
-              },
-              {
-                title: "Posts",
-                url: "/posts"
+                title: "Vagas disponíveis",
+                url: "/vagas-disponiveis"
               }
             ]
           }

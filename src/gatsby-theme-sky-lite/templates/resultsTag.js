@@ -87,7 +87,7 @@ export default function ResultsTagTemplate({
             color="textSecondary"
             style={{ display: "block", marginTop: 32, marginBottom: 4 }}
           >
-            Select page:
+            Selecione a página:
           </Typography>
           <Pagination
             selectVariant="tab"

@@ -79,7 +79,7 @@ export default function PostTemplate({ data, pageContext }) {
               {title}
             </Typography>
             <Typography variant="body2">
-              {moment(postDate).format("LL")} by {author} / <CommentCount config={disqusConfig} placeholder={'...'} />
+              {moment(postDate).locale('pt-br').format("LL")} por {author} / <CommentCount config={disqusConfig} placeholder={'...'} />
             </Typography>
             <Tags tags={tags} />
           </Box>
@@ -101,7 +101,7 @@ export default function PostTemplate({ data, pageContext }) {
                   color="secondary"
                 >
                   <FaChevronLeft size={8} />
-                  <Box marginLeft={0.5}>Previous</Box>
+                  <Box marginLeft={0.5}>Anterior</Box>
                 </Button>
               )}
             </Box>
@@ -112,7 +112,7 @@ export default function PostTemplate({ data, pageContext }) {
                 variant="outlined"
                 color="secondary"
               >
-                <Box marginRight={0.5}>Next</Box>
+                <Box marginRight={0.5}>Próximo</Box>
                 <FaChevronRight size={8} />
               </Button>
             )}

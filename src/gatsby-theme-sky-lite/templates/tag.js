@@ -92,7 +92,7 @@ export default function TagTemplate({
                 component={Link}
                 to={`/${pathPrefixTag}/${tag}/page/1`}
               >
-                View All
+                Ver todos
               </Button>
             </Box>
           )}

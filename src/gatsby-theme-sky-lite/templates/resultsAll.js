@@ -62,7 +62,7 @@ export default function ResultsAllTemplate({
             color="textSecondary"
             style={{ display: "block", marginTop: 32, marginBottom: 4 }}
           >
-            Select page:
+            Selcione a Página:
           </Typography>
           <Pagination
             selectVariant="tab"

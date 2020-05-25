@@ -1,13 +1,15 @@
 {
-  "name": "gatsby-theme-sky-lite-starter",
-  "version": "1.3.2",
+  "name": "nodejs-rio.github.io",
+  "version": "1.0.0",
   "main": "index.js",
-  "author": "Ryan Bell <ryanbell@gmail.com> (@iRyanBell)",
+  "author": "Eduardo Chaves <educostachaves@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "gatsby develop",
     "build": "gatsby build",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages -d public -b master",
+    "post:new": "chmod +x new-post.sh && ./new-post.sh"
   },
   "dependencies": {
     "gatsby": "^2.17.11",
@@ -21,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vim-labs/gatsby-theme-sky-lite-starter.git"
+    "url": "git+https://github.com/nodejs-rio/nodejs-rio.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter/issues"
+    "url": "https://github.com/nodejs-rio/nodejs-rio.github.io/issues"
   },
-  "homepage": "https://github.com/vim-labs/gatsby-theme-sky-lite-starter#readme"
+  "homepage": "https://github.com/nodejs-rio/nodejs-rio.github.io#readme"
 }

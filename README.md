@@ -1,35 +1,41 @@
-# Gatsby Theme: Sky Lite Starter
+# Node.JS Rio Site
 
-A lightweight GatsbyJS starter with Material-UI and MDX Markdown support. This starter uses the `gatsby-theme-sky-lite` theme available at: https://github.com/vim-labs/gatsby-theme-sky-lite
+Site da comunidade Node.js Rio. Se quiser contribuir de um fork do repositório, e submeta seus PRs.
 
-**View demo:**
-https://gatsby-theme-sky-lite.netlify.com
+Este projeto foi feito em GatsbyJS com Material-UI e MDX Markdown. Estamos usando um melhoramento do tema [gatsby-theme-sky-lite](https://github.com/vim-labs/gatsby-theme-sky-lite).
 
-## Install dependencies
+## Como começar
+
+Você vai precisar do `GatsbyJs` instalado em sua máquina. Instale o CLI rodando `npm install -g gatsby-cli`.
+
+### Instalando dependencias
 
 ```bash
-yarn # Or, npm install
+yarn # ou, npm install
 ```
 
-## Start development server
+### Start server dev
 
 ```bash
 gatsby develop
 ```
 
-## Empty cache
+### Limpar cache
 
 ```bash
 gatsby clean
 ```
 
-## Build static site
+### Buildar site estático
 
 ```bash
 gatsby build
 ```
 
-## Screenshots
+## Novos Posts
 
-![Screenshot 01](https://user-images.githubusercontent.com/25379378/69492728-f6e0e200-0e5a-11ea-9601-4d76414a792e.png)
-![Screenshot 02](https://user-images.githubusercontent.com/25379378/69492729-f6e0e200-0e5a-11ea-9508-94c69dff22e8.png)
+Para criar novos posts basta rodar `yarn post:new '<titulo do post>' '<autor do post>`. Um novo folder com os dados do post serão gerados em `./src/content/posts`
+
+## Contribuir com correção ou criar um conteúdo
+
+Basta fazer um Fork do Repo, rodar o projeto em sua máquina, e após as alterações, submeter seu PR. Esse projeto é colaborativo, então sujestões e fixes sempre serão bem vindos.

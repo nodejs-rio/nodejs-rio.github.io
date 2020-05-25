@@ -3,7 +3,7 @@ id: "call-4-papers"
 title: "Call 4 Papers"
 author: "Eduardo Chaves"
 featuredImage: HeaderCall4Papers.jpg
-tags: [vagas]
+tags: [call-4-papers]
 ---
 
 Quer palestrar nos nossos eventos? Mande sua ideia! Entre em contato com a gente por esse formulário abaixo ou pelo email [nodejsrio@gmail.com](mailto:nodejsrio@gmail.com).

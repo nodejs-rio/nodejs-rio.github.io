@@ -65,7 +65,7 @@ export default ({ featuredImage, title, postDate, excerpt, url }) => {
       </CardContent>
       <CardActions classes={{ root: classes.cardActions }}>
         <Button component={Link} to={url} variant="outlined" color="secondary">
-          Read More
+          Ler mais
         </Button>
       </CardActions>
     </Card>

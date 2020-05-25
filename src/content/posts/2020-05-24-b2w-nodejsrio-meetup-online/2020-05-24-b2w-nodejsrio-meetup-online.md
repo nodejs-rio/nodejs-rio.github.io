@@ -1,7 +1,7 @@
 ---
 id: "b2w-nodejsrio-meetup-online"
 title: "B2W e Node.js Rio em um Meetup totalmente online"
-author: iRyanBell
+author: Eduardo Chaves
 featuredImage: B2WMeetup.png
 tags: [b2w, meetup, react, nodejs]
 ---

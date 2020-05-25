@@ -35,10 +35,10 @@ export default function PageTemplate({ data }) {
             <Typography
               variant="h4"
               style={{
-                fontFamily:
-                  "Work Sans, -apple-system, BlinkMacSystemFont, Roboto, sans-serif"
-              }}
-            >
+                fontFamily: "Work Sans, -apple-system, BlinkMacSystemFont, Roboto, sans-serif",
+                fontStyle: 'italic',
+                padding: '1em 0',
+              }}>
               {title}
             </Typography>
           </Box>
