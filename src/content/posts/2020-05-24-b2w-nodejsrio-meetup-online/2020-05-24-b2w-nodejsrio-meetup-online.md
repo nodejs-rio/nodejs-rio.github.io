@@ -6,6 +6,8 @@ featuredImage: B2WMeetup.png
 tags: [b2w, meetup, react, nodejs]
 ---
 
+**Evento:** 28 de Maio de 2020
+
 Fala Galerinha!
 
 Espero que todos estejam bem e seguros! Estamos em um momento delicado, de distanciamento social, o que nos impede de estarmos juntos fisicamente, mas por que não nos encontrar OnLine? Então em parceria com a B2W, que tinha interesse em fazer um Meetup online com a nossa comunidade, abriu esse espaço e não só isso, disponibilizou todos os recursos para que façamos um evento virtual organizado e fenomenal!
@@ -22,7 +24,7 @@ O link de acesso para o Zoom da B2W será liberado aqui no dia, e enviado por e-
 
 Além disso, planejamos outros meetups, então se você quer falar sobre alguma coisa que você gosta, mande sua palestra pra gente! [Formulário Call4Papers](https://forms.gle/XrWjbL2PJBzSYww6A)
 
-### Agenda 
+### Agenda
 
 **19h - 19h10** :: Recepção e Apresentação
 
