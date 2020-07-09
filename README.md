@@ -11,7 +11,7 @@ Você vai precisar do `GatsbyJs` instalado em sua máquina. Instale o CLI rodand
 ### Instalando dependencias
 
 ```bash
-yarn # ou, npm install
+yarn install # ou, npm install
 ```
 
 ### Start server dev
