@@ -1,1 +1,0 @@
-{"componentChunkName":"component---node-modules-gatsby-theme-sky-lite-src-templates-tag-js","path":"/tag/even-number","result":{"data":{"site":{"siteMetadata":{"templates":{"posts":{"pathPrefix":"posts","filters":{"tag":{"pathPrefix":"tag"}}}}}},"allMdx":{"edges":[]}},"pageContext":{"isCreatedByStatefulCreatePages":false,"tag":"even-number","limit":3}}}
